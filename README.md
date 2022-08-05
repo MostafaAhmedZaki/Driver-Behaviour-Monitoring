@@ -3,7 +3,7 @@
 <br/>
 <b>Step 1.</b> Install requirments 
 <pre>
-pip install -r requirments.txt
+pip isnstall -r requirments.txt
 </pre> 
 <br/>
 <b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
