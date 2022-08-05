@@ -3,7 +3,7 @@
 ## Tensorflow Object Detection Walkthrough
 <p>This repo includes the source code of a Driver Behaviour Monitoring System 
 
-<img src="https://ibb.co/6D2GhzH">
+<img src="https://ibb.co/6D2GhzH.png">
 
 ## Steps
 <br/>
