@@ -3,8 +3,6 @@
 ## Tensorflow Object Detection Walkthrough
 <p>This repo includes the source code of a Driver Behaviour Monitoring System 
 
-<img src="1.png">
-
 ## Steps
 <br/>
 <b>Step 1.</b> Install requirments 
@@ -25,6 +23,8 @@ cd Face_Recognition
 python main.py
 </pre> 
 <br/>
+<img src="1.png">
+<img src="2.png">
 
 ## To enable Seatbelt & Distraction detection
 
