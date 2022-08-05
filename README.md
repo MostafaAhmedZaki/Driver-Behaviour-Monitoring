@@ -1,7 +1,6 @@
 # Driver-Behaviour-Monitoring
 
-## Tensorflow Object Detection Walkthrough
-<p>This repo includes the source code of a Driver Behaviour Monitoring System 
+<p>This repo includes the source code of a Driver Behaviour Monitoring System. In order to determine whether or not the user is registered in a database, the system uses face recognition. Drowsiness detection model launches immediately if the user is authenticated. Then, to keep the driver focused on the road, we have seatbelt and distraction detection. All logs are saved in Firebase database 
 
 ## Steps
 <br/>
