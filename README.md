@@ -11,20 +11,24 @@ pip install -r requirments.txt
 </pre> 
 <br/>
 
-## To enable Face Recognition System
+## To enable Face Recognition System & Drowsiness detection
 
 <br/>
 <b>Step 1.</b> Go to Face_Recognition 
 <pre>
 cd Face_Recognition
 </pre> 
-<b>Step 2.</b> Run the script 
+<b>Step 2.</b> Put images of system user in ImagesAttendance 
+<br/>
+<b>Step 3.</b> Run the script 
 <pre>
 python main.py
 </pre> 
 <br/>
 <img src="1.png">
 <img src="2.png">
+<img src="3.png">
+<img src="4.png">
 
 ## To enable Seatbelt & Distraction detection
 
@@ -53,3 +57,5 @@ python -m ipykernel install --user --name=tfodj
 <br/><br/>
 <b>Step 5.</b> Begin testing on an Image or on a Webcam by opening <a href="https://github.com/MostafaAhmedZaki/Driver-Behaviour-Monitoring/blob/main/ObjectDetection_TensorFlow.ipynb">1. ObjectDetection_TensorFlow.ipynb</a> 
 <br /><br/>
+<img src="5.png">
+<img src="6.png">
