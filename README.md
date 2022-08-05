@@ -45,5 +45,11 @@ python -m ipykernel install --user --name=tfodj
 \TFODCourse\Tensorflow\workspace\images\train<br />
 \TFODCourse\Tensorflow\workspace\images\test
 <br/><br/>
-<b>Step 5.</b> Begin testing on an Image or on a Webcam by opening <a href="https://github.com/MostafaAhmedZaki/Driver-Behaviour-Monitoring/blob/main/TFModel/ObjectDetection_TensorFlow.ipynb"> 
+<b>Step 5.</b> Begin testing on an Image or on a Webcam by opening <a href="https://github.com/MostafaAhmedZaki/Driver-Behaviour-Monitoring/blob/main/ObjectDetection_TensorFlow.ipynb">2. ObjectDetection_TensorFlow.ipynb</a> 
 <br /><br/>
+<b>Step 8.</b> You can optionally evaluate your model inside of Tensorboard. Once the model has been trained and you have run the evaluation command under Step 7. Navigate to the evaluation folder for your trained model e.g. 
+<pre> cd Tensorlfow/workspace/models/my_ssd_mobnet/eval</pre> 
+and open Tensorboard with the following command
+<pre>tensorboard --logdir=. </pre>
+Tensorboard will be accessible through your browser and you will be able to see metrics including mAP - mean Average Precision, and Recall.
+<br />
